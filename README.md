@@ -1,2 +1,2 @@
-# LuxuryHub_APIs
+# LuxuryHub APIs
 Official LuxuryHub APIs &amp; WebSite.
